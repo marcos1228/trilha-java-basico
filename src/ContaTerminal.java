@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class ContaTerminal {
     public static void main(String[] args) {
         //TODO:Declaração das variáveis
         int numero;
